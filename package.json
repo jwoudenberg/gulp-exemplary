@@ -5,8 +5,8 @@
   "license": "MIT",
   "main": "lib/gulp-example-to-test.js",
   "repository": {
-      "type": "git",
-      "url": "git://github.com/jwoudenberg/gulp-example-to-test.git"
+    "type": "git",
+    "url": "git://github.com/jwoudenberg/gulp-example-to-test.git"
   },
   "author": {
     "name": "Jasper Woudenberg",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://api.github.com/repos/jwoudenberg/gulp-example-to-test/issues"
   },
-  "homepage": "https://github.com/jwoudenberg/gulp-example-to-test"
+  "homepage": "https://github.com/jwoudenberg/gulp-example-to-test",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
+  }
 }
