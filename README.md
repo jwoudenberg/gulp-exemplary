@@ -47,7 +47,7 @@ var mylib = require('mylib');
 var result = mylib.foo();
 console.log(typeof result);     //=> 'number'
 
-//The bar method takes a callback that is called with a number.
+//The bar method takes a method that gets a number.
 mylib.bar(function(err, result) {
     console.log(typeof result);     //=> 'number'
 });
@@ -66,9 +66,10 @@ assert.strictEqual(typeof result, 'number');
 done();
 }
 
-//The bar method takes a callback that is called with a number.
+test('The bar method takes a method that gets a number.', function(done) {
 mylib.bar(function(err, result) {
     assert.strictEqual(typeof result, 'number');
     done();
 });
+}
 ```
