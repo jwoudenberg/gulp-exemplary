@@ -1,6 +1,7 @@
 This plugin is still in development. Use with care!
 
 # gulp-example-to-test
+[![wercker status](https://app.wercker.com/status/0e9b64541f4a7006ec2f7897189834f2/s "wercker status")](https://app.wercker.com/project/bykey/0e9b64541f4a7006ec2f7897189834f2)
 
 It can be extremely helpfull to new users if a library comes with some examples.
 Sadly though, it often happens that examples stop working as the code base moves
