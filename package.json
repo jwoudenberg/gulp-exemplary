@@ -1,0 +1,20 @@
+{
+  "name": "gulp-example-to-test",
+  "version": "0.1.0",
+  "description": "Turn code examples into testcases.",
+  "license": "MIT",
+  "main": "lib/gulp-example-to-test.js",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/jwoudenberg/gulp-example-to-test.git"
+  },
+  "author": {
+    "name": "Jasper Woudenberg",
+    "email": "mail@jasperwoudenberg.com",
+    "url": "https://github.com/jwoudenberg"
+  },
+  "bugs": {
+    "url": "https://api.github.com/repos/jwoudenberg/gulp-example-to-test/issues"
+  },
+  "homepage": "https://github.com/jwoudenberg/gulp-example-to-test"
+}
