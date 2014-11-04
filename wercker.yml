@@ -2,7 +2,7 @@ box: wercker/nodejs
 build:
   steps:
     - npm-install
-    # - npm-test
+    - npm-test
 deploy:
   steps:
     - script:
