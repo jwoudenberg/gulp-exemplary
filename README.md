@@ -1,5 +1,3 @@
-This plugin is still in development. Use with care!
-
 # gulp-example-to-test
 [![wercker status](https://app.wercker.com/status/0e9b64541f4a7006ec2f7897189834f2/s "wercker status")](https://app.wercker.com/project/bykey/0e9b64541f4a7006ec2f7897189834f2)
 [![NPM version](https://badge.fury.io/js/gulp-example-to-test.svg)](http://badge.fury.io/js/gulp-example-to-test)
