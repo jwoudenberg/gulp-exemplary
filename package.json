@@ -1,16 +1,16 @@
 {
-  "name": "gulp-example-to-test",
+  "name": "gulp-exemplary",
   "version": "1.0.0",
   "description": "Turn code examples into testcases.",
   "license": "MIT",
-  "main": "lib/gulp-example-to-test.js",
+  "main": "lib/gulp-exemplary.js",
   "keywords": ["gulpplugin"],
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jwoudenberg/gulp-example-to-test.git"
+    "url": "git://github.com/jwoudenberg/gulp-exemplary.git"
   },
   "author": {
     "name": "Jasper Woudenberg",
@@ -18,9 +18,9 @@
     "url": "https://github.com/jwoudenberg"
   },
   "bugs": {
-    "url": "https://api.github.com/repos/jwoudenberg/gulp-example-to-test/issues"
+    "url": "https://api.github.com/repos/jwoudenberg/gulp-exemplary/issues"
   },
-  "homepage": "https://github.com/jwoudenberg/gulp-example-to-test",
+  "homepage": "https://github.com/jwoudenberg/gulp-exemplary",
   "dependencies": {
     "gulp-util": "^3.0.0",
     "through2": "^0.6.1"

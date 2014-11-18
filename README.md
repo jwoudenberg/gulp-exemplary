@@ -1,6 +1,6 @@
-# gulp-example-to-test
+# gulp-exemplary
 [![wercker status](https://app.wercker.com/status/0e9b64541f4a7006ec2f7897189834f2/s "wercker status")](https://app.wercker.com/project/bykey/0e9b64541f4a7006ec2f7897189834f2)
-[![NPM version](https://badge.fury.io/js/gulp-example-to-test.svg)](http://badge.fury.io/js/gulp-example-to-test)
+[![NPM version](https://badge.fury.io/js/gulp-exemplary.svg)](http://badge.fury.io/js/gulp-exemplary)
 
 It can be extremely helpfull to new users if a library comes with some examples.
 Sadly though, it often happens that examples stop working as the code base moves
@@ -11,15 +11,15 @@ way you can be sure your examples and library work as specified.
 
 ## Usage
 
-You can install `gulp-example-to-test` as a development dependency.
+You can install `gulp-exemplary` as a development dependency.
 
-    npm install gulp-example-to-test --save-dev
+    npm install gulp-exemplary --save-dev
 
 Now add it to your `gulpfile.js`. The generated testcases can be executed with
 mocha, using the `qunit` interface.
 
 ```js
-var exampleToTest = require('gulp-example-to-test');
+var exampleToTest = require('gulp-exemplary');
 gulp.task('test-examples', function () {
     gulp.src('./examples/*.js')
         .pipe(exampleToTest())
