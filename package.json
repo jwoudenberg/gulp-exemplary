@@ -1,6 +1,6 @@
 {
   "name": "gulp-exemplary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn code examples into testcases.",
   "license": "MIT",
   "main": "lib/gulp-exemplary.js",
