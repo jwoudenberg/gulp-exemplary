@@ -1,6 +1,6 @@
 # gulp-exemplary
-[![wercker status](https://app.wercker.com/status/0e9b64541f4a7006ec2f7897189834f2/s "wercker status")](https://app.wercker.com/project/bykey/0e9b64541f4a7006ec2f7897189834f2)
-[![NPM version](https://badge.fury.io/js/gulp-exemplary.svg)](http://badge.fury.io/js/gulp-exemplary)
+[![NPM version](http://img.shields.io/npm/v/gulp-exemplary.svg?style=flat-square)](https://www.npmjs.com/package/gulp-exemplary)
+[![Build status](http://img.shields.io/travis/jwoudenberg/gulp-exemplary/master.svg?style=flat-square)](https://travis-ci.org/jwoudenberg/gulp-exemplary)
 
 It can be extremely helpfull to new users if a library comes with some examples.
 Sadly though, it often happens that examples stop working as the code base moves
