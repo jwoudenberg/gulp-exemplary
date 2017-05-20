@@ -30,6 +30,6 @@
   "devDependencies": {
     "colors": "^1.0.3",
     "gulp": "^3.8.10",
-    "gulp-uglify": "^2.0.0"
+    "gulp-uglify": "^3.0.0"
   }
 }
